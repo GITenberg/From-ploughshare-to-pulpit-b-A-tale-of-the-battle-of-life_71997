@@ -1,0 +1,32 @@
+_repo: From-ploughshare-to-pulpit-b-A-tale-of-the-battle-of-life_71997
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Stables, Gordon
+    aliases:
+    - Stables, William Gordon
+    - Stables, W. Gordon (William Gordon)
+    - Gordon-Stables, W.
+    birthdate: 1840
+    deathdate: 1910
+    gutenberg_agent_id: '4164'
+    url: http://www.gutenberg.org/2009/agents/4164
+    wikipedia: https://en.wikipedia.org/wiki/William_Gordon_Stables
+description: ''
+gutenberg_issued: '2023-11-01'
+identifiers:
+  gutenberg: '71997'
+language: en
+pgterms:marc905: 20220616045246stables
+pgterms:marc906: '1895'
+pgterms:marc907: GB
+production_note: Al Haines, Chuck Greif and the Online Distributed Proofreading Team
+  at https://www.pgdp.net
+publication_note: '  $aLondon :$bJames Nisbet & Co., $c1895.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'From ploughshare to pulpit : $b A tale of the battle of life'
+url: http://www.gutenberg.org/ebooks/71997
