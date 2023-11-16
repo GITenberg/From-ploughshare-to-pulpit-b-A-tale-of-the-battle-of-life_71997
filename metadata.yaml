@@ -1,5 +1,8 @@
 _repo: From-ploughshare-to-pulpit-b-A-tale-of-the-battle-of-life_71997
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 71997-h/images/cover.jpg
 creator:
   author:
     agent_name: Stables, Gordon
@@ -13,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/4164
     wikipedia: https://en.wikipedia.org/wiki/William_Gordon_Stables
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/71997#From-ploughshare-to-pulpit-b-A-tale-of-the-battle-of-life
 gutenberg_issued: '2023-11-01'
 identifiers:
   gutenberg: '71997'
